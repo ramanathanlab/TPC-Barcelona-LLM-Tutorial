@@ -9,4 +9,5 @@ For more information: https://tpc.dev/tpc-european-kick-off-workshop/tutorial-tp
 ## Local models
 Ollama is an open-source platform for running LLMs locally on your device. For more information on available models and a direct download link, please refer to this: https://www.ollama.com/
 
-**TODO**: First, follow this link to install Ollama on your operating system: https://www.ollama.com/
+**TODO**: First, please install a version of Python >= 3.11: https://www.python.org/downloads/
+**TODO**: Second, follow this link to install Ollama on your operating system: https://www.ollama.com/
